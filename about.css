@@ -1,0 +1,32 @@
+section {
+    max-width: 80vw;
+    margin: 20px auto;
+    padding: 10px;
+    /* background-color: #fff; */
+    border: 1px solid #ccc;
+    border-radius: 8px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    backdrop-filter: blur(10px);
+}
+h1{
+    color: white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 20px;
+}
+h2 {
+    color: aquamarine;
+    font-size: 18px;
+}
+
+p {
+    color: white;
+    line-height: 1.2;
+    font-size: 13px;
+}
+footer p{
+    color: black;
+}
+
+
